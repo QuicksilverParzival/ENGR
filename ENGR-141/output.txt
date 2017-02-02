@@ -1,0 +1,6 @@
+For a beam with a height of 10 ft, width of 5 ft and a thickness
+
+of 2 ft, the cross-sectional area is 22 sq. ft.
+
+For an applied load of 234 lbs, the stress on the I-beam is 10.64 psf.
+

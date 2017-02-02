@@ -1,0 +1,9 @@
+String		1		  2		    3		  4		    5		  6		    7		  8		    9		  10
+Total		2.41	  2.46	    2.71	  2.60	    2.31	  2.20	    2.77	  2.39	    2.58	  2.51	
+Power?
+Equivalent	5.98e+03  5.85e+03  5.32e+03  5.55e+03  6.24e+03  6.55e+03  5.19e+03  6.02e+03  5.58e+03  5.75e+03
+Resistance?
+Number of	39        45        46        43        43        45        45        44        45        42
+Bulbs with
+R<1e6Ohms?
+Acceptable?	 Y         Y         N         Y         Y         N         N         Y         Y         Y

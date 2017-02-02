@@ -1,0 +1,136 @@
+﻿Notities bij de introductie van de LEGO® MINDSTORMS® Educatieve NXT software v. 2.1
+
+voor Windows® XP ,Windows® Vista en Windows® 7, en Apple Mac OS® X v10.5, Mac OS X v10.6 en Mac OS X v10.7
+
+
+Disclaimer (Bewijs van afwijzing van aanspraak)
+De software wordt geleverd als zodanig, zonder enige vorm van garantie. Elk risico dat verbonden is aan het gebruik en/of de werking van de software berust uitsluitend bij de gebruiker. Tot zover als dit volgens de geldende wetgeving mogelijk is, kunnen de LEGO Groep van bedrijven (inclusief LEGO Systems A/S) en haar leveranciers en licentiehouders niet aansprakelijk gesteld worden voor eventuele schade ontstaan door het gebruik van, of defecten aan, de software. 
+
+Alvorens de software te installeren en te gebruiken, dient u zich akkoord te verklaren met de inhoud van de licentieafspraak die bij de software geleverd is. Lees a.u.b. de licentieafspraak grondig door voordat u de LEGO MINDSTORMS NXT software op uw computer installeert.
+
+In de hierna volgende tekst worden zowel LEGO MINDSTORMS NXT software als LEGO MINDSTORMS Educatieve NXT software aangeduid met: LEGO MINDSTORMS NXT software.
+
+
+Inhoud
+ 
+1) Systeemeisen 
+
+	- Microsoft Windows
+	
+	- Apple Macintosh
+
+2) Installeren van de LEGO MINDSTORMS NXT bestanden 
+
+3) Verwijderen van de LEGO MINDSTORMS NXT bestanden
+
+4) Hulp en ondersteuning 
+
+5) Juridisch 
+
+
+
+1) SYSTEEMEISEN
+
+
+Zorg tijdens het installeren voor een internetverbinding, om snel aan eventuele nieuwe vereisten te kunnen voldoen.
+
+LEGO MINDSTORMS NXT 2.1 software, minimum systeemeisen:
+
+Algemeen
+minimaal 512MB RAM
+Tot 700MB beschikbaar op de harde schijf
+XGA beeldscherm (1024x768)
+1 vrije USB poort
+Compatibele Bluetooth adapter (optioneel)*
+
+- Microsoft Windows
+Windows XP Professional of Home Edition met Service Pack 2 of nieuwer
+Intel® Pentium® processor of compatibel, 1,5 GHz of meer aanbevolen
+
+Windows Vista Service Pack 1 of nieuwer.
+Intel® Pentium® processor of compatibel, 1,5 GHz of meer aanbevolen
+
+Windows 7 met nieuwste service pack
+Intel® Pentium® processor of compatibel, 1,5 GHz of meer aanbevolen
+
+CD-ROM
+
+- Apple Macintosh
+Apple MacOS X v10.5, v10.6 of v10.7
+Intel processor
+
+dvd station
+
+*) Ondersteunde Bluetooth software versies zijn o.a.: Widcomm® Bluetooth voor Windows (nieuwere versies dan 1.4.2.10 SP5), en de Bluetooth pakketten in Microsoft Windows XP (met Service Pack 2 of Service Pack 3), Windows Vista of Vista Service Pack 1 en Apple MacOS X 10.3.9, 10.4, 10.5. en 10.6.
+
+
+2) INSTALLEREN VAN DE LEGO MINDSTORMS NXT SOFTWARE
+
+Verwijder alle eerdere versies van de software alvorens deze versie van de LEGO MINDSTORMS NXT Software te installeren.
+
+Om de LEGO MINDSTORMS NXT software te kunnen installeren, zijn Administrator bevoegdheden vereist. 
+
+Microsoft Windows
+Om de software te installeren: activeer "Autorun.exe" op de CD-ROM en volg de instructies op het scherm.
+Na de installatie moet de computer misschien opnieuw gestart worden. Nadat de computer opnieuw gestart is: dubbelklik op de MINDSTORMS NXT Software-icoon op het bureaublad. De LEGO MINDSTORMS NXT Software zal nu gestart worden. 
+
+Apple Macintosh
+Om de software te installeren: dubbelklik op "Install" op de dvd en volg daarna de instructies op het scherm.
+Ga na installatie naar "Toepassingen (Applications)->LEGO Mindstorms NXT" en klik op Mindstorms NXT. De LEGO MINDSTORMS NXT software zal nu gestart worden. 
+
+Als de software voor het eerst gebruikt wordt, kan de procedure een paar minuten duren. Na de eerste keer zal de startprocedure sneller verlopen.
+
+
+
+3) VERWIJDEREN VAN DE LEGO MINDSTORMS NXT SOFTWARE
+
+Microsoft Windows XP
+Klik op "Start" in de Windows taakbalk en ga naar "Alle Programma’s->LEGO MINDSTORMS NXT->Uninstall" (Verwijder) LEGO MINDSTORMS NXT. 
+Als alternatief is het mogelijk op "Start" te klikken in de Windows taakbalk en naar "Settings" (Instellingen) en "Control Panel" (Configuratiescherm) te gaan. Kies dan "Add/Remove Programs" (Programma’s toevoegen/verwijderen), selecteer de LEGO MINDSTORMS NXT items en klik op "Remove" (Verwijderen). Volg de instructies op het scherm. 
+
+Microsoft Windows Vista
+Klik op "Start" in de Windows taakbalk en ga naar "Alle Programma’s->LEGO MINDSTORMS NXT->Uninstall" (Verwijder) LEGO MINDSTORMS NXT. 
+Als alternatief is het mogelijk op "Start" te klikken in de Windows taakbalk en naar "Control Panel" (Configuratiescherm) te gaan. Kies dan "Uninstall a Program" (Programma verwijderen) en klik op de LEGO MINDSTORMS NXT items. Volg de instructies op het scherm. 
+
+Microsoft Windows 7
+Klik op "Start" in de Windows taakbalk en ga naar "Alle Programma’s->LEGO MINDSTORMS NXT->Uninstall" (Verwijder) LEGO MINDSTORMS NXT. 
+Als alternatief is het mogelijk op "Start" te klikken in de Windows taakbalk en naar "Control Panel" (Configuratiescherm) te gaan. Kies dan "Uninstall a Program" (Programma verwijderen) en klik op de LEGO MINDSTORMS NXT items. Volg de instructies op het scherm. 
+
+Apple Mac 
+Trek de map met de LEGO MINDSTORMS NXT software vanuit de "Programma’s" (Applications) map naar de Vuilnisbak (Trash Can) om het programma te verwijderen. 
+
+
+4) HULP EN ONDERSTEUNING
+
+Hulpbestanden zijn te vinden in de gedrukte gebruikersgids, vanuit het Startscherm van het programma en in het "Help" menu.
+
+LEGO MINDSTORMS NXT Software:
+Ga voor aanvullende hulp en ondersteuning naar het online LEGO MINDSTORMS NXT Help and Support Center op http://www.MINDSTORMS.com/support
+
+Ga Voor meer informatie over het gebruik van Bluetooth in combinatie met LEGO MINDSTORMS NXT naar: http://www.MINDSTORMS.com/bluetooth
+
+LEGO MINDSTORMS Educatieve NXT Software
+Ga naar http://www.MINDSTORMSeducation.com voor antwoord op uw vragen over de LEGO MINDSTORMS Education NXT.
+
+
+5) JURIDISCH
+
+LEGO MINDSTORMS NXT software is ontwikkeld en gedistribueerd door de LEGO Groep, DK-7190 Billund, Denemarken. Copyright © 2010 the LEGO Group en haar licentiehouders. LEGO, het LEGO logo en MINDSTORMS zijn handelsmerken van de LEGO Groep.
+
+LabVIEW & Powered by LabVIEW zijn handelsmerken van National Instruments. Alle rechten voorbehouden.
+
+Dit product bevat Adobe® Flash® Player software van Adobe Systems Incorporated. Adobe® Flash® Player. Copyright © 1996 - 2010 Adobe Systems Incorporated. Alle rechten voorbehouden. Patenten aangevraagd in de Verenigde Staten en andere landen. Adobe en Flash zijn handelsmerken dan wel geregistreerde handelsmerken in de Verenigde Staten en/of andere landen.
+
+
+Dit product bevat een aangepaste versie van de Gecko® engine. De originele bron voor de Gecko engine is te vinden op mozilla.org®. Op het moment van uitgifte lag de bron voor de Windows component op ftp://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.7.5/source. Op het moment van uitgifte lag de bron voor de Mac component op ftp://ftp.mozilla.org/pub/mozilla.org//firefox/releases/1.5.0.2/source. De Gecko engine bron en de aangepaste bestanden zijn licenties onder Mozilla Public License 1.1. De aangepaste bestanden en Mozilla Public Licentie zijn beschikbaar op de Software CD-ROM in de map Modifications.
+
+Gecko is een geregistreerd handelsmerk van Netscape Communications Corporation.
+
+ 
+
+Mozilla.org is een geregistreerd handelsmerk van the Mozilla Foundation.
+
+Bluetooth is een handelsmerk van Bluetooth SIG, Inc. en de LEGO Groep is licentiehouder.
+
+
+2010-05-03 / David

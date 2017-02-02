@@ -1,0 +1,137 @@
+﻿LEGO® MINDSTORMS® Education NXT 软件版本 2.1 发布说明书
+
+适用于 Windows® XP、Windows® Vista 和 Windows® 7系统
+以及 Apple Mac OS® X v10.5、Mac OS X v10.6 和 Mac OS X v10.7
+
+
+免责声明
+软件和文档按照其现状提供，不作任何担保。在使用或操作软件和文档过程中发生的一切风险由您承担。在适用法律所允许的最大范围内，在任何情况下，乐高、其分公司或其供应商或授权许可方对由于使用或无法使用软件造成的任何损害不承担任何担保责任。
+
+为了安装和使用该软件，您必须同意包括软件在内的许可协议的条款。在把 LEGO MINDSTORMS NXT 软件安装到您的系统之前，请务必阅读本许可协议。
+
+在下文中，LEGO MINDSTORMS NXT 软件和 LEGO MINDSTORMS Education NXT 软件将被简称为 LEGO MINDSTORMS NXT 软件。
+
+
+目录：
+ 
+1）系统要求 
+
+	- 微软 Windows
+	
+	- 苹果 Macintosh
+
+2）安装 LEGO MINDSTORMS NXT 软件。
+
+3）安装 LEGO MINDSTORMS NXT 软件。
+
+4）帮助和支持 
+
+5）法律 
+
+
+
+1）系统要求
+
+
+请确保在安装时在线，以保证考虑到最新的系统要求。
+
+LEGO MINDSTORMS NXT 2.1 软件最低系统要求：
+
+基本要求
+最低 512 MB 内存
+ 700MB 可用的硬盘空间
+XGA 显示（1024x768）
+一个可用 USB 接口
+兼容蓝牙适配器（可选）
+
+- 微软 Windows
+Windows XP Professional 或 Home Edition 之 Service Pack 2 或更高。
+Intel® Pentium® 处理器或兼容处理器，建议 1.5 GHz或更高
+
+Windows Vista Service Pack 1 或更高。
+Intel® Pentium® 处理器或兼容处理器，建议 1.5 GHz 或更高
+
+带最新服务包的 Windows 7
+Intel® Pentium® 处理器或兼容处理器，建议 1.5 GHz 或更高
+
+CD-ROM 光驱
+
+苹果- Macintosh
+苹果 MacOS X v10.5、v10.6 或 v10.7
+Intel 处理器
+
+DVD 光驱
+
+*）支持以下蓝牙软件：比版本 1.4.2.10 SP5 更新的兼容 Windows 的 Wildcomm 蓝牙软件，以及 Microsoft Windows XP Service Pack 2、Service Pack 3、Windows Vista、Vista Service Pack 1、Apple MacOS X 10.3.9、10.4、10.5 和 10.6 中所包括的蓝牙补丁
+
+
+2）安装 LEGO MINDSTORMS NXT 软件。
+
+在安装LEGO MINDSTORMS NXT 软件之前，请卸载以前安装的版本。
+
+安装 LEGO MINDSTORMS NXT 软件时需要管理员授权。
+
+微软 Windows
+安装软件时，在CD-ROM上运行“自动运行（Autorun.exe）”并按照屏幕上的指示操作。
+安装时，您可能需要重启系统。当系统重启时，双击电脑屏幕上的 MINDSTORMS NXT 软件图标。这将启动 LEGO MINDSTORMS NXT 软件。
+
+苹果 Macintosh
+安装软件时，在 DVD 上双击“安装（Install）”并按照屏幕上的指示操作。
+在安装时，选择 Applications->LEGO Mindstorms NXT，然后点击 Mindstorms NXT。这将启动 LEGO MINDSTORMS NXT 软件。
+
+第一次启动 LEGO MINDSTORMS NXT 软件时，可能会花费几分钟。启动时间在您下次打开应用程序时会减少。
+
+
+
+3）卸载 LEGO MINDSTORMS NXT 软件。
+
+微软 Windows XP
+在 Windows 任务栏中点击开始（start），然后按照所有程序（All Programs）->LEGO MINDSTORMS NXT->卸载 LEGO MINDSTORMS NXT 依次进行。
+您还可以在 Windows 任务栏中点击开始（start），然后按照设置（Settings）->控制面板（Control Panel），添加/删除所有程序（Add/Remove Programs），然后点击删除（Remove）LEGO MINDSTORMS NXT 的每个项目。按照屏幕上的指示操作。
+
+微软 Windows Vista
+在 Windows 任务栏中点击开始（start），然后按照所有程序（All Programs）->LEGO MINDSTORMS NXT->卸载 LEGO MINDSTORMS NXT 依次进行。
+您还可以在 Windows 任务栏中点击开始（start），然后在控制面板（Control Panel）上卸载一个程序，点击 LEGO MINDSTORMS NXT 的每个项目。按照屏幕上的指示操作。
+
+微软 Windows 7
+在 Windows 任务栏中点击开始（start），然后按照所有程序（All Programs）->LEGO MINDSTORMS NXT->卸载 LEGO MINDSTORMS NXT 依次进行。
+您还可以在 Windows 任务栏中点击开始（start），然后在控制面板（Control Panel）上卸载一个程序，点击 LEGO MINDSTORMS NXT 的每个项目。按照屏幕上的指示操作。
+
+苹果 Mac 电脑 
+将 LEGO MINDSTORMS NXT 软件文件夹从应用程序类拖到到垃圾箱内。
+
+
+4）帮助和支持
+
+有关“帮助”的内容可参见印刷的《用户指南》和软件启动屏幕和帮助菜单。
+
+LEGO MINDSTORMS NXT软件：
+欲了解更多帮助和支持信息，请登录http://www.MINDSTORMS.com/support的 LEGO MINDSTORMS NXT 在线帮助和支持中心。
+
+欲了解使用 LEGO MINDSTORMS NXT 蓝牙系统信息，请登录http://www.MINDSTORMS.com/bluetooth。
+
+LEGO MINDSTORMS NXT 软件：
+可登录http://www.MINDSTORMSeducation.com，了解关于 LEGO MINDSTORMS Education NXT 的所有咨询。
+
+
+5）法律
+
+LEGO® MINDSTORMS® NXT 软件由乐高集团（丹麦 DK-7190 Billund）开发并销售。© 2010 乐高集团及其许可方版权所有。乐高、乐高标识以及 MINDSTORMS 是乐高集团的商标。
+
+LabVIEW 和 Powered by LabVIEW 是美国国家仪器有限公司的注册商标。保留一切权利。
+
+本产品含有 Adobe Systems 公司的 Adobe® Flash® Player 软件。Adobe® Flash® Player。© 1996 - 2010 Adobe Systems 公司版权所有。保留所有权利。正在美国和其它国家申请专利。Adobe 和 Flash 是在美国和/或其它国家登记的商标或注册商标。
+
+
+本产品含有修改版 Gecko® 引擎。Gecko 引擎的源代码可在mozilla.org® 上找到。截至发布之时，Windows 组件的源代码位于 ftp://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.7.5/source。截至发布之时，Mac组件的源代码位于 ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.5.0.2/source。Gecko 引擎来源和修正文件根据 MPL 公共许可 1.1 版本授予许可。修正文件和 MPL 许可在修正文件夹中的Software CD-ROM 上可获得。
+
+Gecko 为网景通讯公司（Netscape Communications Corporation）注册商标。
+
+ 
+
+Mozilla.org 为 Mozilla 基金会的注册商标。
+
+Bluetooth 为蓝牙技术联盟公司所有的商标，授权许可乐高集团使用。
+
+
+2010-05-03 / David

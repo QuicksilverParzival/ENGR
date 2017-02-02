@@ -1,0 +1,41 @@
+<script type="text/javascript">
+<!--
+var browserName=navigator.appName; 	//either "Netscape" or "Microsoft Internet Explorer", firefox and safari return Netscape
+var myBrowserLanguage="";
+var readmeLang="";
+var redirectLocation="";
+//			subString: "Chrome",	identity: "Chrome"
+//			subString: "OmniWeb",	identity: "OmniWeb"
+//			subString: "Apple",	identity: "Safari",
+//			prop: window.opera,	identity: "Opera"
+//			subString: "iCab",	identity: "iCab"
+//			subString: "KDE",	identity: "Konqueror"
+//			subString: "Firefox",	identity: "Firefox"
+//			subString: "Camino",	identity: "Camino"
+//			subString: "Netscape",	identity: "Netscape"
+//			subString: "MSIE",	identity: "Explorer",
+//			subString: "Gecko",	identity: "Mozilla",
+//			subString: "Mozilla",	identity: "Netscape",
+if (browserName=="Netscape") myBrowserLanguage = navigator.language;
+else if (browserName=="Microsoft Internet Explorer") myBrowserLanguage = navigator.browserLanguage;
+//document.write(myBrowserLanguage);
+
+if (myBrowserLanguage.indexOf('en') > -1) readmeLang = 'English';
+else if (myBrowserLanguage.indexOf('nl') > -1) readmeLang = 'Nederlands';
+else if (myBrowserLanguage.indexOf('fr') > -1) readmeLang = 'Francais';
+else if (myBrowserLanguage.indexOf('da') > -1) readmeLang = 'Danish';
+else if (myBrowserLanguage.indexOf('de') > -1) readmeLang = 'Deutsch';
+else if (myBrowserLanguage.indexOf('ja') > -1) readmeLang = 'Japanese';
+else if (myBrowserLanguage.indexOf('it') > -1) readmeLang = 'Italian';
+else if (myBrowserLanguage.indexOf('no') > -1) readmeLang = 'Norwegian';
+else if (myBrowserLanguage.indexOf('pt') > -1) readmeLang = 'Portuguese';
+else if (myBrowserLanguage.indexOf('ru') > -1) readmeLang = 'Russian';
+else if (myBrowserLanguage.indexOf('es') > -1) readmeLang = 'Spanish';
+else if (myBrowserLanguage.indexOf('sv') > -1) readmeLang = 'Swedish';
+else if (myBrowserLanguage.indexOf('zh') > -1) readmeLang = 'Chinese';
+else readmeLang = 'English';
+
+redirectLocation = "Readme/Read Me (" + readmeLang + ").txt";
+window.location = redirectLocation;
+//-->
+</script>

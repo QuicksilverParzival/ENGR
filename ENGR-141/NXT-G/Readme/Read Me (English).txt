@@ -1,0 +1,137 @@
+﻿Release notes LEGO® MINDSTORMS® Education NXT Software v2.1
+
+for Windows® XP ,Windows® Vista and Windows® 7
+Apple Mac OS® X v10.5, v10.6, and v10.7
+
+
+Disclaimer
+The software is provided as-is without any warranty of any kind. The entire risk arising out the use or performance of the software remains with you. To the maximum extent permitted by applicable law, in no event shall the LEGO Group of Companies (including LEGO System A/S) and its suppliers and licensors, be liable for any damages arising out of the use or inability to use the software. 
+
+To install and use the software, you must agree to the terms of the License Agreement included with the software. Please be sure to read the License Agreement before installing LEGO MINDSTORMS NXT Software on your system.
+
+In the following LEGO MINDSTORMS NXT Software and LEGO MINDSTORMS Education NXT Software will be referred to as LEGO MINDSTORMS NXT Software.
+
+
+Table of Contents:
+ 
+1) System requirements 
+
+	- Microsoft Windows
+	
+	- Apple Macintosh
+
+2) Installing the LEGO MINDSTORMS NXT Software 
+
+3) Uninstalling the LEGO MINDSTORMS NXT Software
+
+4) Help and support 
+
+5) Legal 
+
+
+
+1) SYSTEM REQUIREMENTS
+
+
+Please make sure to be online when installing to make sure the latest requirements are taken in to consideration.
+
+LEGO MINDSTORMS NXT 2.1Software minimum system requirements:
+
+General
+512MB of RAM minimum
+Up to 700MB of available hard-disk space
+XGA display (1024x768)
+1 available USB port
+Compatible Bluetooth adapter (optional)*
+
+- Microsoft Windows
+Windows XP Professional or Home Edition with Service Pack 2 or newer.
+Intel® Pentium® processor or compatible, 1.5 GHz or better recommended
+
+Windows Vista Service Pack 1 or newer.
+Intel® Pentium® processor or compatible, 1.5 GHz or better recommended
+
+Windows 7 with latest service pack
+Intel® Pentium® processor or compatible, 1.5 GHz or better recommended
+
+CD-ROM drive
+
+- Apple Macintosh
+Apple MacOS X v10.5, v10.6 or v10.7
+Intel processor
+
+DVD-drive
+
+*) Supported Bluetooth software are Widcomm® Bluetooth for Windows newer than v. 1.4.2.10 SP5 and the Bluetooth stacks  included in Microsoft Windows XP with Service Pack 2 or Service Pack 3, Windows Vista or Vista Service Pack 1, Apple MacOS X  10.3.9, 10.4, 10.5. and 10.6
+
+
+2) INSTALLING THE LEGO MINDSTORMS NXT SOFTWARE
+
+Before you install LEGO MINDSTORMS NXT Software, please uninstall any previous version installed.
+
+Administrator privileges are required when installing the LEGO MINDSTORMS NXT Software. 
+
+Microsoft Windows
+To install the Software run "Autorun.exe" on the CD-ROM and follow the on-screen instructions.
+When installed you may need to restart your system. When the system has been restarted, double click the MINDSTORMS NXT Software icon on your desktop. This will start the LEGO MINDSTORMS NXT Software. 
+
+Apple Macintosh
+To install the Software double-click "Install" on the DVD and follow the on-screen instructions.
+When installed select Applications->LEGO Mindstorms NXT and click Mindstorms NXT. This will start the LEGO MINDSTORMS NXT Software. 
+
+The first time you start the LEGO MINDSTORMS NXT Software may take a couple of minutes. The start-up time will decrease the next time you launch the application.
+
+
+
+3) UNINSTALLING THE LEGO MINDSTORMS NXT SOFTWARE
+
+Microsoft Windows XP
+Click Start from the Windows task bar, go to All Programs->LEGO MINDSTORMS NXT->Uninstall LEGO MINDSTORMS NXT. 
+Alternatively, click Start from the Windows task bar, go to Settings->Control Panel, Add/Remove Programs, and click Remove for each LEGO MINDSTORMS NXT items. Follow the on-screen instructions. 
+
+Microsoft Windows Vista
+Click Start from the Windows task bar, go to All Programs->LEGO MINDSTORMS NXT->Uninstall LEGO MINDSTORMS NXT. 
+Alternatively, click Start from the Windows task bar, go to Control Panel, Uninstall a program and click each of the LEGO MINDSTORMS NXT items. Follow the on-screen instructions. 
+
+Microsoft Windows 7
+Click Start from the Windows task bar, go to All Programs->LEGO MINDSTORMS NXT->Uninstall LEGO MINDSTORMS NXT. 
+Alternatively, click Start from the Windows task bar, go to Control Panel, Uninstall a program and click each of the LEGO MINDSTORMS NXT items. Follow the on-screen instructions. 
+
+Apple Mac 
+Drag LEGO MINDSTORMS NXT Software folder from Applications to the Trash Can to uninstall. 
+
+
+4) HELP AND SUPPORT
+
+Help is available in the printed User Guide and the Software's start screen and help menu.
+
+LEGO MINDSTORMS NXT Software:
+For additional help and support visit the LEGO MINDSTORMS NXT Help and Support Center online http://www.MINDSTORMS.com/support
+
+For information on using Bluetooth with LEGO MINDSTORMS NXT please visit http://www.MINDSTORMS.com/bluetooth
+
+LEGO MINDSTORMS Education NXT Software:
+Visit http://www.MINDSTORMSeducation.com for all enquiries related to LEGO MINDSTORMS Education NXT.
+
+
+5) LEGAL
+
+LEGO MINDSTORMS NXT Software is developed and distributed by the LEGO Group, DK-7190 Billund, Denmark. Copyright © 2010 the LEGO Group and its licensors. LEGO, the LEGO logo and MINDSTORMS are trademarks of the LEGO Group.
+
+LabVIEW & Powered by LabVIEW are trademarks of National Instruments. All rights reserved.
+
+This product contains Adobe® Flash® Player software by Adobe Systems Incorporated. Adobe® Flash® Player. Copyright © 1996 - 2010 Adobe Systems Incorporated. All Rights Reserved. Patents pending in the United States and other countries. Adobe and Flash are either trademarks or registered trademarks in the United States and/or other countries.
+
+
+This product contains a modified version of the Gecko® engine. The original source for the Gecko engine can be found on mozilla.org®. At the time of the release, the source for the Windows component was at ftp://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.7.5/source. At the time of the release, the source for the Mac component was at ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.5.0.2/source. The Gecko engine source and modified files are licensed under the Mozilla Public License 1.1. The modified files and Mozilla Public License are available on the Software CD-ROM in the Modifications folder.
+
+Gecko is a registered trademark of Netscape Communications Corporation.
+
+ 
+
+Mozilla.org is a registered trademark of the Mozilla Foundation.
+
+Bluetooth is a trademark owned by Bluetooth SIG, Inc. and is licensed to the LEGO Group.
+
+
+2010-05-03 / David

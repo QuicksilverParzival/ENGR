@@ -1,0 +1,9 @@
+A = 10
+B = A ^ 2
+C = B - A * 2 / 5
+%D = 13 // 3 + 4 / 3   yields unrunnable error
+E = 4 ^ (3 * 2)
+F = -4 ^ (1 / 2)
+M = 4 ^ (i / 2)
+Z = 133 % 20
+P = exp(2 * pi)

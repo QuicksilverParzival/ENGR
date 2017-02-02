@@ -1,0 +1,137 @@
+﻿Notes documentaires pour le logiciel LEGO® MINDSTORMS® Education NXT v2.1
+
+pour Windows® XP, Windows® Vista et Windows® 7
+Apple Mac OS® X v10.5, Mac OS X v10.6 et Mac OS X v10.7
+
+
+Limitation de garantie
+Le logiciel est fourni « en l'état », sans la moindre garantie de quelque nature que ce soit. Vous supportez la totalité du risque découlant de l'usage ou des performances du logiciel. Dans la mesure où les lois en vigueur l'autorisent, le Groupe d'entreprises LEGO (y compris LEGO System A/S), ses fournisseurs et concédants de licence déclinent toute responsabilité à l'égard de tout dommage découlant de l'utilisation du logiciel ou de l'impossibilité de l'utiliser. 
+
+Pour installer et utiliser le logiciel, vous devez accepter les dispositions du Contrat de licence joint au logiciel. Veuillez lire attentivement le Contrat de licence avant d'installer le logiciel LEGO MINDSTORMS NXT sur votre système.
+
+Dans le texte ci-dessous, les logiciels LEGO MINDSTORMS NXT et LEGO MINDSTORMS Education NXT seront nommés « Logiciel LEGO MINDSTORMS NXT ».
+
+
+Table des matières
+ 
+1) Configuration requise 
+
+	- Microsoft Windows
+	
+	- Apple Macintosh
+
+2) Installation du logiciel LEGO MINDSTORMS NXT 
+
+3) Désinstallation du logiciel LEGO MINDSTORMS NXT
+
+4) Aide et support 
+
+5) Mentions légales 
+
+
+
+1) CONFIGURATION REQUISE
+
+
+Assurez-vous d’être en ligne lorsque vous procédez à l'installation, de manière à garantir la prise en considération des exigences les plus récentes.
+
+Configuration minimale pour le logiciel LEGO MINDSTORMS NXT 2.1 :
+
+Généralités
+512 Mo minimum de mémoire RAM
+Jusqu’à 700 Mo d’espace disponible sur le disque dur
+Affichage XGA (1 024 x 768)
+1 port USB disponible
+Adaptateur Bluetooth compatible (facultatif)*
+
+- Microsoft Windows
+Windows XP Professionnel ou Édition familiale avec Service Pack 2 ou ultérieur
+Processeur Intel® Pentium® ou compatible, 1,5 GHz ou plus rapide recommandé
+
+Windows Vista Service Pack 1 ou ultérieur
+Processeur Intel® Pentium® ou compatible, 1,5 GHz ou plus rapide recommandé
+
+Windows 7 avec le dernier Service Pack
+Processeur Intel® Pentium® ou compatible, 1,5 GHz ou plus rapide recommandé
+
+Lecteur de CD-ROM
+
+- Apple Macintosh
+Apple MacOS X v10.5. v10.6 ou v10.7
+Processeur Intel
+
+Lecteur DVD
+
+*) Les logiciels Bluetooth compatibles sont Widcomm® Bluetooth for Windows supérieurs à la version 1.4.2.10 SP5 et les piles Bluetooth incluses dans Microsoft Windows XP avec Service Pack 2 ou Service Pack 3, Windows Vista ou Vista Service Pack 1, Apple MacOS X 10.3.9, 10.4, 10.5 et 10.6.
+
+
+2) INSTALLATION DU LOGICIEL LEGO MINDSTORMS NXT
+
+Avant d'installer le logiciel LEGO MINDSTORMS NXT, désinstallez les éventuelles versions antérieures installées sur votre système.
+
+Vous devez posséder des droits d'administrateur pour pouvoir installer le logiciel LEGO MINDSTORMS NXT. 
+
+Microsoft Windows
+Pour installer le logiciel, exécutez « Autorun.exe » sur le CD-ROM, puis suivez les instructions qui s'affichent à l'écran.
+Au terme de l'installation, il peut s'avérer nécessaire de redémarrer votre système. Lorsque le système a redémarré, double-cliquez sur l'icône Logiciel MINDSTORMS NXT qui se trouve sur votre bureau. Le logiciel LEGO MINDSTORMS NXT démarre. 
+
+Apple Macintosh
+Pour installer le logiciel, double-cliquez sur « Install » sur le DVD puis suivez les instructions qui s'affichent à l'écran.
+Une fois le logiciel installé, sélectionnez Applications->LEGO Mindstorms NXT et cliquez sur Mindstorms NXT. Le logiciel LEGO MINDSTORMS NXT démarre. 
+
+Le premier démarrage du logiciel LEGO MINDSTORMS NXT peut prendre quelques minutes. Ce délai de démarrage de l'application sera réduit au démarrage suivant.
+
+
+
+3) DESINSTALLATION DU LOGICIEL LEGO MINDSTORMS NXT
+
+Microsoft Windows XP
+Cliquez sur Démarrer dans la barre des tâches de Windows, accédez à Tous les programmes->LEGO MINDSTORMS NXT->Désinstaller LEGO MINDSTORMS NXT. 
+Vous pouvez aussi cliquer sur Démarrer dans la barre des tâches de Windows, accéder à Paramètres->Panneau de configuration, Ajout/Suppression de programmes, et cliquer sur Supprimer pour chaque élément LEGO MINDSTORMS NXT. Suivez les instructions qui s'affichent à l'écran. 
+
+Microsoft Windows Vista
+Cliquez sur Démarrer dans la barre des tâches de Windows, accédez à Tous les programmes->LEGO MINDSTORMS NXT->Désinstaller LEGO MINDSTORMS NXT. 
+Vous pouvez aussi cliquer sur Démarrer dans la barre des tâches de Windows, accéder à Panneau de configuration, Programmes et fonctionnalités, et cliquer sur chaque élément LEGO MINDSTORMS NXT. Suivez les instructions qui s'affichent à l'écran. 
+
+Microsoft Windows 7
+Cliquez sur Démarrer dans la barre des tâches de Windows, accédez à Tous les programmes->LEGO MINDSTORMS NXT->Désinstaller LEGO MINDSTORMS NXT. 
+Vous pouvez aussi cliquer sur Démarrer dans la barre des tâches de Windows, accéder à Panneau de configuration, Programmes et fonctionnalités, et cliquer sur chaque élément LEGO MINDSTORMS NXT. Suivez les instructions qui s'affichent à l'écran. 
+
+Apple Mac 
+Tirez le dossier du logiciel LEGO MINDSTORMS NXT des applications vers la corbeille pour le désinstaller. 
+
+
+4) AIDE ET SUPPORT
+
+Vous trouverez de l'aide dans le manuel de l'utilisateur imprimé, dans l'écran de démarrage du logiciel et dans le menu Aide.
+
+Logiciel LEGO MINDSTORMS NXT :
+Pour obtenir davantage d'aide et de support, visitez le centre d'aide et de support en ligne de LEGO MINDSTORMS NXT à l'adresse http://www.MINDSTORMS.com/support.
+
+Pour plus d'informations sur l'utilisation de Bluetooth avec LEGO MINDSTORMS NXT, visitez le site http://www.MINDSTORMS.com/bluetooth.
+
+Logiciel LEGO MINDSTORMS Education NXT :
+Pour toute question relative à LEGO MINDSTORMS Education NXT, visitez le site http://www.MINDSTORMSeducation.com.
+
+
+5) MENTIONS LEGALES
+
+Le logiciel LEGO MINDSTORMS NXT est développé et distribué par le Groupe LEGO, DK-7190 Billund, Danemark. Copyright © 2010 Groupe LEGO et ses concédants de licence. LEGO, le logo LEGO et MINDSTORMS sont des marques commerciales du Groupe LEGO.
+
+LabVIEW & Powered by LabVIEW sont des marques commerciales de National Instruments. Tous droits réservés.
+
+Ce produit contient le logiciel Adobe® Flash® Player de Adobe Systems Incorporated. Adobe® Flash® Player. Copyright © 1996 - 2010 Adobe Systems Incorporated. Tous droits réservés. Brevets en attente aux Etats-Unis et dans d’autres pays. Adobe et Flash sont des marques commerciales ou des marques déposées aux Etats-Unis et/ou dans d’autres pays.
+
+
+Ce produit contient une version modifiée du moteur Gecko®. La source originale du moteur Gecko est disponible sur le site mozilla.org®. A la mise sous presse, la source pour le composant Windows se trouvait à l'adresse suivante : ftp ://ftp.mozilla.org/pub/mozilla.org/mozilla/releases/mozilla1.7.5/source. A la mise sous presse, la source pour le composant Mac se trouvait à l'adresse suivante : ftp ://ftp.mozilla.org/pub/mozilla.org/firefox/releases/1.5.0.2/source. La source et les fichiers modifiés du moteur Gecko sont accordés en licence conformément à la licence 1.1 publique de Mozilla. Les fichiers modifiés et la licence publique de Mozilla sont disponibles dans le dossier Modifications du CD-ROM du logiciel.
+
+Gecko est une marque déposée de Netscape Communications Corporation.
+
+ 
+
+Mozilla.org est une marque déposée de Mozilla Foundation.
+
+Bluetooth est une marque commerciale de Bluetooth SIG, Inc. et concédée en licence au Groupe LEGO.
+
+
+05/03/2010 / David
